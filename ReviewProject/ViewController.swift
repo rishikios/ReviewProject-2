@@ -7,6 +7,10 @@
 
 import UIKit
 
+
+
+
+
 class ViewController: UIViewController {
     
     var fetchedMovie = [WelcomeElement]()
